@@ -27,6 +27,7 @@ github_username:  leehongtaek
 # Comment ID
 disqus:
   id: leehongtaek
+  
 # Build settings
 markdown: kramdown
 theme: minima
@@ -35,3 +36,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+---
+layout: default
+comments: true
+# other options
+---
