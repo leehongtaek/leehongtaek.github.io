@@ -25,7 +25,7 @@ twitter_username: taekganzi
 github_username:  leehongtaek
 
 # Disqus post comments
-disqus_short_name: leehongtaek
+disqus: leehongtaek
 ---
 layout: default
 comments: true
