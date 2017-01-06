@@ -13,11 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
----
-layout: default
-comments: true
-# other options
----
 title: 초보개발자의 Dev Diary
 email: taekganzi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -31,7 +26,6 @@ github_username:  leehongtaek
 
 # Comment ID
 disqus: leehongtaek
-
 # Build settings
 markdown: kramdown
 theme: minima
