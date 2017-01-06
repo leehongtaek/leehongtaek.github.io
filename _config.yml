@@ -24,13 +24,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taekganzi
 github_username:  leehongtaek
 
-# Disqus post comments
-disqus: leehongtaek
----
-layout: default
-comments: true
-# other options
----
 # Build settings
 markdown: kramdown
 theme: minima
