@@ -1,5 +1,5 @@
 # Site settings
-title: Hongtaek LEE - Web Developer
+title: TAKU'S Dev Dairy
 description: "Dev Diary"
 baseurl: ""
 url: "https:leehongtaek.githu.io"
@@ -7,9 +7,9 @@ url: "https:leehongtaek.githu.io"
 username: Hongtaek Lee
 user_title: Rookie Developer
 email: taekganzi@gmail.com
-twitter_username: ""
+twitter_username: "taekganzi"
 github_username:  leehongtaek
-gplus_username:  ""
+gplus_username:  "taekganzi"
 disqus_username: "leehongtaek"
 
 # Build settings
@@ -39,11 +39,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: JETRO n Kawasaki Heavy Industries
+    url: https://github.com/
+  - name: KOSTA108
+    url: https://github.com/
+  - name: SangAh ManagementColsulting
+    url: https://github.com/ 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
